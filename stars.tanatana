@@ -1,1 +1,103 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>stars.mountain</title>
+    <!-- CSS リンク -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>stars</h1>
+        <nav>
+            
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>英語</h2>
+            <ul>
+                <li><a href="#">中学英文法</a></li>
+                    <li><a href="#">高校英文法</a></li>
+                        <ul>
+                            <li><a href="#">宿題</a></li>
+                                <p><a href="C:\Users\yo_he\OneDrive\デスクトップ\スターズ\英語\文法\スターズ高校英文法.pdf" target="_blank">表示</a></p>
+                                <!-- 他のトピックを追加 -->
+                        </ul>
+                        <li><a href="#">英単語</a></li>
+                            <ul>
+                                <li><a href="#">不規則変化動詞</a></li>
+                                <p><a href="C:\Users\yo_he\OneDrive\デスクトップ\スターズ\英語\不規則変化動詞\スターズ　不規則動詞一覧(1-25).pdf"" target="_blank">表示</a></p>
+                                <li><a href="#">基礎英単語</a></li>
+                                <!-- 他のトピックを追加 -->
+                            </ul>
+                                <!-- 他のトピックを追加 -->
+                            <li>
+                    <a href="#">その他</a>
+                    <ul>
+                        <li><a href="#">empty</a></li>
+                        <!-- 他のトピックを追加 -->
+                    </ul>
+                </li>
+                <!-- 他の科目を追加 -->
+            </ul>
+        </section>
+        
+        <section>
+            <h2>数学</h2>
+            <ul>
+                <li><a href="#">数ⅠA</a></li>
+                <li><a href="#">数ⅡB</a></li>
+                <li><a href="#">数ⅢC</a></li>
+                <!-- 他のトピックを追加 -->
+            </ul>
+        </section>
+
+        <section>
+            <h2>国語</h2>
+            <ul>
+                <li><a href="#">empty</a></li>
+
+            </ul>
+        </section>
+
+        <section>
+            <h2>理科</h2>
+            <ul>
+                <li><a href="#">化学</a></li>
+                <ul>
+                    <li><a href="#">理論化学</a></li>
+                    <li><a href="#">有機化学</a></li>
+                    <li><a href="#">無機化学</a></li>
+                    <!-- 他のトピックを追加 -->
+                </ul>
+                <li><a href="#">生物</a></li>
+                <li><a href="#">物理</a></li>
+                <li><a href="#">地学</aⅠ></li>
+                <!-- 他のトピックを追加 -->
+            </ul>
+        </section>
+
+        <section>
+            <h2>社会</h2>
+            <ul>
+                <li><a href="#">empty</a></li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>情報</h2>
+            <ul>
+                <li><a href="#">empty</a></li>
+            </ul>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 オンライン授業の資料サイト</p>
+    </footer>
+</body>
+</html>
 
